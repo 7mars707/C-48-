@@ -1,0 +1,21 @@
+[
+  {
+    "id": "e29f9853-01a7-400a-aaf2-0c5d15f5d2f6",
+    "data": [
+      {
+        "text": "fix my appointment by ",
+        "userDefined": false
+      },
+      {
+        "text": "4 PM on Wednesday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

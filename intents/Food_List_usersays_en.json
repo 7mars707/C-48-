@@ -1,0 +1,95 @@
+[
+  {
+    "id": "49e66b76-a2b9-40ac-812e-e7f4c3a2edd0",
+    "data": [
+      {
+        "text": "pepsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b53e82b-2ad9-49f3-a473-22769c8d9ccc",
+    "data": [
+      {
+        "text": "coco cola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98206806-10dd-4a3e-be9e-613602d0e545",
+    "data": [
+      {
+        "text": "ladoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2440f78d-5155-4836-a005-dbcb240da21d",
+    "data": [
+      {
+        "text": "icecream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4ae16b0-61be-4223-af27-395dd4ebf04f",
+    "data": [
+      {
+        "text": "gulab jamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83c44644-9af3-44ae-8e63-c3bce1a1bc18",
+    "data": [
+      {
+        "text": "paneer chilli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "267a2e98-adba-4050-ad6d-03eb76fe6f29",
+    "data": [
+      {
+        "text": "Vegetable samosa",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
